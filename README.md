@@ -1,120 +1,164 @@
-<div align="center">
+<h1 align="center">Abinaya Saravanan</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Abinaya%20Saravanan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+Python Developer • Backend Development • Full Stack Learner
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Backend+%26+API+Engineer;Automation+%26+Data+Enthusiast;Always+Learning+%2C+Always+Building+%F0%9F%9A%80" />
-
-<img src="https://komarev.com/ghpvc/?username=Abinaya141&label=Profile%20Views&color=000000&style=flat" alt="profile views"/>
-
-</div>
-
-<br/>
+---
 
 ## About Me
 
 ```python
 class AbinayaSaravanan:
     def __init__(self):
-        self.role       = "Python Developer"
-        self.focus      = ["Backend Development", "REST APIs", "Automation"]
-        self.tools      = ["Django", "Flask", "FastAPI"]
-        self.currently  = "Learning Python, Django & Full Stack Development"
-        self.fun_fact   = "Coffee + Code = Happiness"
+        self.name = "Abinaya Saravanan"
+        self.role = "Python Developer"
+        self.location = "India"
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great!")
+        self.skills = {
+            "Languages": ["Python", "SQL", "JavaScript"],
+            "Backend": ["Django", "Flask", "FastAPI"],
+            "Frontend": ["HTML", "CSS", "Bootstrap"],
+            "Tools": ["Git", "GitHub", "VS Code"]
+        }
+
+        self.current_focus = [
+            "Backend Development",
+            "REST APIs",
+            "Automation",
+            "Full Stack Development"
+        ]
+
+        self.goal = "Build scalable applications with clean architecture"
+
+    def __str__(self):
+        return self.name
 
 me = AbinayaSaravanan()
-me.say_hi()
 ```
 
-- Writing clean, efficient **Python** code
-- Building backend systems with **Django / Flask / FastAPI**
-- Exploring **data handling & automation** with Python
-- Goal: Become a strong **Python Full Stack Developer**
-- Ask me about: Python, REST APIs, SQL, Git workflows
+- Building backend applications with Python
+- Learning Django, Flask and FastAPI
+- Exploring REST API development
+- Interested in automation and clean code
+- Always improving through hands-on projects
 
-<br/>
+---
 
 ## Tech Stack
 
-<div align="center">
+#### Languages
 
-**Languages & Core**
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
+#### Frameworks
 
-**Frameworks & Libraries**
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,bootstrap" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,bootstrap&theme=dark"/>
+#### Tools
 
-**Databases & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea,postman,linux&theme=dark"/>
-
-</div>
-
-<br/>
+---
 
 ## GitHub Analytics
 
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abinaya141&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya141&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=8"/>
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abinaya141&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya141&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Abinaya141&theme=black-ice&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Abinaya141&theme=github-dark-blue&hide_border=true"/>
+</p>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinaya141&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
-</div>
+---
 
-<br/>
+## Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinaya141&theme=github-dark&hide_border=true"/>
+</p>
+
+---
 
 ## Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abinaya141&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abinaya141&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"/>
+</p>
 
-<br/>
+---
 
-## Contribution Snake — Black Edition
+## Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abinaya141/Abinaya141/output/snake.svg" />
-</div>
+> Create the workflow below in `.github/workflows/snake.yml`.  
+> The snake will automatically be **dark green**.
 
-> Generated by a GitHub Action using a pure black-and-white color scheme (see `snake.yml` below) — a fully custom look instead of the default theme.
+```yaml
+name: Generate Snake
 
-<br/>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-## Let's Connect
+permissions:
+  contents: write
 
-<div align="center">
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Abinaya141
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After enabling the workflow, display the snake using:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/Abinaya141/Abinaya141/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+## Connect
+
+<p>
 <a href="https://github.com/Abinaya141">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 <a href="mailto:abusha1410@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+</p>
 
-</div>
+---
 
-<br/>
+## Quote
 
-<div align="center">
-
-### Quote
-
-*"Code. Learn. Build. Repeat."* 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
-
-</div>
+> "Consistency beats intensity."
