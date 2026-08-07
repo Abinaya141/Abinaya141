@@ -4,99 +4,58 @@
 Python Developer • Backend Developer • Full Stack Learner
 </p>
 
+<p align="center">
+Building clean, scalable and efficient backend applications with Python.
+</p>
+
 ---
 
 ## About Me
 
-```python
-class AbinayaSaravanan:
-    def __init__(self):
-        self.name = "Abinaya Saravanan"
-        self.role = "Python Developer"
-        self.location = "India"
-
-        self.skills = {
-            "Languages": [
-                "Python",
-                "SQL",
-                "JavaScript"
-            ],
-
-            "Backend": [
-                "Django",
-                "Flask",
-                "FastAPI"
-            ],
-
-            "Frontend": [
-                "HTML",
-                "CSS",
-                "Bootstrap"
-            ],
-
-            "Tools": [
-                "Git",
-                "GitHub",
-                "VS Code"
-            ]
-        }
-
-        self.current_focus = [
-            "Backend Development",
-            "REST APIs",
-            "Automation",
-            "Full Stack Development"
-        ]
-
-        self.goal = "Build scalable applications with clean architecture"
-
-    def __str__(self):
-        return self.name
-
-
-me = AbinayaSaravanan()
+```text
+╭────────────────────────────────────────────────────────────╮
+│ Name      : Abinaya Saravanan                             │
+│ Role      : Python Developer                              │
+│ Location  : India                                         │
+│ Focus     : Backend Development                           │
+│ Learning  : Django • FastAPI • Flask                      │
+│ Database  : MySQL                                         │
+│ Editor    : VS Code                                       │
+│ Tools     : Git • GitHub • Postman                        │
+│ Status    : Learning • Building • Improving               │
+╰────────────────────────────────────────────────────────────╯
 ```
-
-- Building backend applications with Python
-- Learning Django, Flask and FastAPI
-- Exploring REST API development
-- Interested in automation and clean architecture
-- Always improving through real-world projects
 
 ---
 
 ## Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,mysql,html,css,js,git,github,vscode,postman&theme=dark"/>
 
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,bootstrap" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abinaya141&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya141&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abinaya141&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya141&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
+---
+
+## Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Abinaya141&theme=github-dark-blue&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Abinaya141&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
@@ -104,15 +63,19 @@ me = AbinayaSaravanan()
 ## Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinaya141&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinaya141&theme=github-dark&hide_border=true&bg_color=0d1117&color=bf91f3&line=9d4edd&point=c77dff"/>
+
 </p>
 
 ---
 
-## GitHub Trophies
+## Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abinaya141&theme=darkhub&no-frame=true&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abinaya141&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+
 </p>
 
 ---
@@ -120,31 +83,31 @@ me = AbinayaSaravanan()
 ## Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Abinaya141/Abinaya141/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
 </p>
 
 ---
 
 ## Connect
 
-<p>
+<p align="center">
 
 <a href="https://github.com/Abinaya141">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="mailto:abusha1410@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## Quote
+<p align="center">
 
-> "Consistency beats intensity."
+*"Write clean code. Keep learning. Build meaningful software."*
+
+</p>
