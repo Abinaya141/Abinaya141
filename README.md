@@ -1,101 +1,118 @@
-<h1 align="center">Hi 👋, I'm Abinaya Saravanan</h1>
-<h3 align="center">💜 Java Web Developer | Full Stack Developer | UI Designer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Web+Developer;Spring+Boot+Developer;Frontend+Developer;Always+Learning+New+Things+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abinaya%20Saravanan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Backend+%26+API+Engineer;Automation+%26+Data+Enthusiast;Always+Learning+%2C+Always+Building+%F0%9F%9A%80" />
 
-## 🚀 About Me
+</div>
 
-- 🌱 Learning **Java, Spring Boot, React**
-- 💻 Building Full Stack Applications
-- 🎯 Goal: Become a Java Full Stack Developer
-- ☕ Coffee + Code = Happiness
+<br/>
 
----
+<img align="right" src="https://raw.githubusercontent.com/aditya6767/aditya6767/master/gif3.gif" width="270"/>
 
-## 🌐 Connect with Me
+## 🧭 About Me
 
-<p align="left">
-<a href="https://github.com/Abinaya141">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+```python
+class AbinayaSaravanan:
+    def __init__(self):
+        self.role       = "Python Developer"
+        self.focus      = ["Backend Development", "REST APIs", "Automation"]
+        self.tools      = ["Django", "Flask", "FastAPI"]
+        self.currently  = "Learning Python, Django & Full Stack Development"
+        self.fun_fact   = "Coffee + Code = Happiness ☕"
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
 
-<a href="mailto:abusha1410@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
+me = AbinayaSaravanan()
+me.say_hi()
+```
 
----
+- 🐍 Writing clean, efficient **Python** code
+- 🌐 Building backend systems with **Django / Flask / FastAPI**
+- 📊 Exploring **data handling & automation** with Python
+- 🎯 Goal: Become a strong **Python Full Stack Developer**
+- 💬 Ask me about: Python, REST APIs, SQL, Git workflows
 
-## 💻 Tech Stack
+<br/>
 
-<p align="center">
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,bootstrap,mysql,git,github,vscode,idea"/>
+<div align="center">
 
-</p>
+**Languages & Core**
 
----
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
 
-# 📊 GitHub Stats
+**Frameworks & Libraries**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,bootstrap"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abinaya141&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Databases & Tools**
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya141&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,idea,postman,linux"/>
 
-</p>
+</div>
 
----
+<br/>
 
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abinaya141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya141&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=Abinaya141&theme=tokyonight&hide_border=true"/>
+</div>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinaya141&theme=tokyo-night&hide_border=true"/>
+</div>
 
-</p>
+<br/>
 
----
+## 🏆 Trophies
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Abinaya141&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
-</p>
+<br/>
 
----
+## 🐍 Contribution Snake
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-</p>
+<br/>
 
----
+## 🌐 Let's Connect
 
-## ✨ Quote
+<div align="center">
 
-> *"Code. Learn. Build. Repeat."* 🚀
+<a href="https://github.com/Abinaya141">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:abusha1410@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Quote
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
