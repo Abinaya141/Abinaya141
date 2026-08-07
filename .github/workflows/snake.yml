@@ -1,0 +1,31 @@
+name: Generate Black Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Abinaya141
+          outputs: |
+            dist/snake.svg?palette=github-dark
+            dist/snake-dark.svg?color_snake=%23ffffff&color_dots=%23000000,%23111111,%23222222,%23444444,%23ffffff
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
