@@ -91,15 +91,15 @@ Building backend applications with Python, REST APIs and automation.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin">
+<a href=" https://www.linkedin.com/in/abinaya-s-a1b4c109/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:abiofficial2003@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href=" https://abinaya141.github.io/My-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
