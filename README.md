@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
 ```python
 class AbinayaSaravanan:
@@ -19,7 +19,7 @@ class AbinayaSaravanan:
         self.focus      = ["Backend Development", "REST APIs", "Automation"]
         self.tools      = ["Django", "Flask", "FastAPI"]
         self.currently  = "Learning Python, Django & Full Stack Development"
-        self.fun_fact   = "Coffee + Code = Happiness ☕"
+        self.fun_fact   = "Coffee + Code = Happiness"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something great!")
@@ -28,15 +28,15 @@ me = AbinayaSaravanan()
 me.say_hi()
 ```
 
-- 🐍 Writing clean, efficient **Python** code
-- 🌐 Building backend systems with **Django / Flask / FastAPI**
-- 📊 Exploring **data handling & automation** with Python
-- 🎯 Goal: Become a strong **Python Full Stack Developer**
-- 💬 Ask me about: Python, REST APIs, SQL, Git workflows
+- Writing clean, efficient **Python** code
+- Building backend systems with **Django / Flask / FastAPI**
+- Exploring **data handling & automation** with Python
+- Goal: Become a strong **Python Full Stack Developer**
+- Ask me about: Python, REST APIs, SQL, Git workflows
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -56,7 +56,7 @@ me.say_hi()
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abinaya141&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&count_private=true&include_all_commits=true"/>
@@ -73,7 +73,7 @@ me.say_hi()
 
 <br/>
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Abinaya141&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
@@ -81,7 +81,7 @@ me.say_hi()
 
 <br/>
 
-## 🐍 Contribution Snake — Black Edition
+## Contribution Snake — Black Edition
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abinaya141/Abinaya141/output/snake.svg" />
@@ -91,7 +91,7 @@ me.say_hi()
 
 <br/>
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -111,9 +111,9 @@ me.say_hi()
 
 <div align="center">
 
-### 💬 Quote
+### Quote
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Code. Learn. Build. Repeat."* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
 
